@@ -1,4 +1,5 @@
 # Way of the Samurai 4 한국어 패치
+<img width="1200" height="1800" alt="image" src="https://github.com/user-attachments/assets/5fc663a9-78ce-4bad-b1e9-127307c67a7c" />
 
 《Way of the Samurai 4》 Steam PC판용 비공식 한국어 패치입니다.
 
@@ -49,9 +50,8 @@
 - 복구된 원본 파일 854개 해시 불일치: 0
 - 숨김 원본 백업 검증 오류: 0
 - 설치 및 복구 후 임시 폴더 잔존: 0
-- 반디집 7.35 압축 무결성 검사: 통과
 
-## v6.0.0 파일 해시
+## v0.9.0 파일 해시
 
 ### 배포 ZIP
 
